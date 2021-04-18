@@ -1,5 +1,13 @@
 /* this is the external css file for the HTML page */
 
+.box {
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-width: 30pt;
+} 
+
+
 body {
   background-color: #73A9FF;
   argin-left: 20px;
