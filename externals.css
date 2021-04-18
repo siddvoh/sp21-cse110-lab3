@@ -31,6 +31,8 @@ body {
 a {
   margin: 1em 2em 1em 2em; 
   display: inline;
+  position: sticky;
+  top: 20px;
 }
 
 h1.hidden {
@@ -60,3 +62,8 @@ h4 {
 p {
   font-family: "Gill Sans", sans-serif;
 }
+
+#fri, #sat, #sun {
+  position: static;
+}
+
