@@ -28,6 +28,13 @@ body {
   padding-right: 5px;
   
 }
+a {
+  display: inline;
+}
+
+h1.hidden {
+  display: none;
+}
   
 
 hr {
