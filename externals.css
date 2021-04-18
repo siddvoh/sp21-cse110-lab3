@@ -1,1 +1,33 @@
+/* this is the external css file for the HTML page */
 
+.box {
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-width: 30pt;
+} 
+
+
+body {
+  background-color: #73A9FF;
+  argin-left: 20px;
+}
+
+h1 {
+  color: rgb(46, 44, 40);
+  text-decoration: underline;
+  text-align: center;
+}
+h2 {
+  color: hsl(44, 29%, 7%) ;
+  text-align: center;
+}
+h3 {
+  color: darkblue ;
+}
+h4 {
+  color: #2E0002 ;
+}
+p {
+  font-family: "Gill Sans", sans-serif;
+}
