@@ -1,1 +1,14 @@
+/* this is the external css file for the HTML page */
 
+body {
+  background-color: blue;
+}
+
+h1 {
+  color: white;
+  margin-left: 20px;
+}
+h2 {
+  color: black;
+  margin-left: 20px;
+}
