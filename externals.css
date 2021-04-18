@@ -1,13 +1,17 @@
 /* this is the external css file for the HTML page */
 
 body {
+  background-color: #73A9FF;
+  argin-left: 20px;
+}
+
+.bodyDiv {
   border-width: 2px;
   border-style: solid;
   border-color: black;
   border-radius: 30pt;
-  background-color: #73A9FF;
-  argin-left: 20px;
 }
+  
 
 hr {
   border: 1px solid blue;
