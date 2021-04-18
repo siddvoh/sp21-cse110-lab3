@@ -2,24 +2,21 @@
 
 body {
   background-color: #73A9FF;
+  argin-left: 20px;
 }
 
 h1 {
   color: rgb(46, 44, 40);
-  margin-left: 20px;
-  text-decoration: underline
+  text-decoration: underline;
   text-align: center;
 }
 h2 {
   color: hsl(44, 29%, 7%) ;
-  margin-left: 20px;
   text-align: center;
 }
 h3 {
   color: darkblue ;
-  margin-left: 20px;
 }
 h4 {
   color: #2E0002 ;
-  margin-left: 20px;
 }
