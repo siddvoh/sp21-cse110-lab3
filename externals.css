@@ -4,9 +4,13 @@ body {
   border-width: 2px;
   border-style: solid;
   border-color: black;
-  border-width: 30pt;
+  border-radius: 30pt;
   background-color: #73A9FF;
   argin-left: 20px;
+}
+
+hr {
+  color: #0C084D;
 }
 
 h1 {
