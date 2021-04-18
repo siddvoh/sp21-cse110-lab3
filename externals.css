@@ -10,6 +10,11 @@ body {
   border-style: solid;
   border-color: black;
   border-radius: 30pt;
+  margin-top: 3pc;
+  margin-left: 4pc;
+  margin-bottom: 3pc;
+  margin-right: 4pc;
+  padding: 5vh 5vw 5vh 5vw;
 }
   
 
