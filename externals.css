@@ -16,6 +16,18 @@ body {
   margin-right: 4pc;
   padding: 5vh 5vw 5vh 5vw;
 }
+.formDiv {
+  border-width: 5px;
+  border-style: solid;
+  border-color: red;
+  border-radius: 2pt;
+  margin: auto;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  
+}
   
 
 hr {
