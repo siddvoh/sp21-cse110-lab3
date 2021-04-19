@@ -18,13 +18,13 @@ body {
   flex-grow:3;
 }
 
-.wrapper {
+.grid {
   display:grid;
+  grid-template-columns: 60px 60px 60px;
+  column-gap: 10px;
+  row-gap: 5px;
 }
-.wrapperhead{
-  grid-column-start: 1;
-  grid-column-end: 4;
-}
+
 
 .bodyDiv {
   border-width: 2px;
