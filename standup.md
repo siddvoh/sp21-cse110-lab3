@@ -5,4 +5,4 @@
 |Sidd |Tired |Made a list to track staff meetings |Gathering old meeting data |Gather old meetings data and complete the list|
 |James |Enthusiastic |Prepared Team Logo |Color scheme finalization|Finalize color scheme and start presentation theme brainstorming|
 |**Management Team**| | | | |
-|Caitlyn |Excited |Set up team meetings for the week |Pending approvals from teammates regarding meeting schedule|Fill in agendas for all the upcoming meetings|
+|Caitlyn |Excited |Set up team meetings for the week |Pending approvals from teammates regarding meeting schedules |Fill in agendas for all the upcoming meetings|
