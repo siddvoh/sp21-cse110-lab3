@@ -10,6 +10,12 @@ body {
   argin-left: 20px;
 }
 
+.flex {
+  display: flex;
+  color:darkblue;
+}
+
+
 .bodyDiv {
   border-width: 2px;
   border-style: solid;
