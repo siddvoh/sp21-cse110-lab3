@@ -116,6 +116,15 @@ p {
 h3,h4 {
   position: static;
 }
+a[href="#fri"] { 
+  background-color: yellow;
+}
+a[href="#sat"] { 
+  background-color: red;
+}
+a[href="#sun"] { 
+  background-color: green;
+}
 
 @media only screen and (min-width: 768px) {
   .bodyDiv {width: 95%;}
