@@ -14,6 +14,13 @@ body {
   display: flex;
 }
 
+.wrapper {
+  display:grid;
+}
+.wrapperhead{
+  grid-column-start: 1;
+  grid-column-end: 4;
+}
 
 .bodyDiv {
   border-width: 2px;
