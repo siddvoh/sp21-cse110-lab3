@@ -71,6 +71,29 @@ hr {
   border: 1px solid blue;
 }
 
+h1 h2{
+  text-align: left;
+}
+
+h3 > h4{
+  color:red;
+}
+a ~ link{
+  text-align: center;
+}
+h2+h3{
+  text-align: left;
+}
+  
+#fri{
+  text-align: center;
+}
+#sat{
+   text-align: center;
+}
+#sun{
+   text-align: center;
+}
 h1 {
   color: rgb(46, 44, 40);
   text-decoration: underline;
