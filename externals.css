@@ -38,8 +38,12 @@ a {
 h1.hidden {
   display: none;
 }
-  
-
+a:active {
+  color:green;
+}
+a:hover {
+  color: black;
+}
 hr {
   border: 1px solid blue;
 }
