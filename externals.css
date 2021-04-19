@@ -12,6 +12,9 @@ body {
 
 .flex {
   display: flex;
+  justify-content:center;
+  align-content:center;
+  flex-grow:3;
 }
 
 .wrapper {
