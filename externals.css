@@ -67,7 +67,7 @@ p {
   font-family: "Gill Sans", sans-serif;
 }
 
-#fri, #sat, #sun {
+h3,h4 {
   position: static;
 }
 
