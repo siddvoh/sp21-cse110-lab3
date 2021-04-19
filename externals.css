@@ -94,3 +94,7 @@ h3,h4 {
   position: static;
 }
 
+@media only screen and (min-width: 768px) {
+  .bodyDiv {width: 95%;}
+}
+
